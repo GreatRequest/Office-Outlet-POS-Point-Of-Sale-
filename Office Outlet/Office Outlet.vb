@@ -1,0 +1,49 @@
+﻿Public Class Office_Outlet
+    Private Sub Btn_Back_Click(sender As Object, e As EventArgs) Handles Btn_Back.Click
+        Me.Close()
+        SwitchBoard.Show()
+    End Sub
+
+    Private Sub Office_Outlet_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        Dim AppName As String = My.Application.Info.AssemblyName
+
+        Dim VersionCode As Integer
+        Dim Version As String = "10"
+        Dim ieVersion As Object = Microsoft.Win32.Registry.LocalMachine.OpenSubKey("Software\Microsoft\Internet Explorer").GetValue("svcUpdateVersion")
+        If ieVersion Is Nothing Then
+            ieVersion = Microsoft.Win32.Registry.LocalMachine.OpenSubKey("Software\Microsoft\Internet Explorer").GetValue("Version")
+        End If
+        If ieVersion IsNot Nothing Then
+            Version = ieVersion.ToString.Substring(0, ieVersion.ToString.IndexOf("."c))
+            Select Case Version
+                Case "7"
+                    VersionCode = 7000
+                Case "8"
+                    VersionCode = 8888
+                Case "9"
+                    VersionCode = 9999
+                Case "10"
+                    VersionCode = 10001
+                Case Else
+                    If CInt(Version) >= 11 Then
+                        VersionCode = 11001
+                    Else
+                        Throw New Exception("IE Version not supported")
+                    End If
+            End Select
+        Else
+            Throw New Exception("Registry error")
+        End If
+        'Check if the right emulation is set
+        'if not, Set Emulation to highest level possible on the user machine
+        Dim Root As String = "HKEY_CURRENT_USER\"
+        Dim Key As String = "Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION"
+        Dim CurrentSetting As String = CStr(Microsoft.Win32.Registry.CurrentUser.OpenSubKey(Key).GetValue(AppName & ".exe"))
+        If CurrentSetting Is Nothing OrElse CInt(CurrentSetting) <> VersionCode Then
+            Microsoft.Win32.Registry.SetValue(Root & Key, AppName & ".exe", VersionCode)
+            Microsoft.Win32.Registry.SetValue(Root & Key, AppName & ".vshost.exe", VersionCode)
+        End If
+
+    End Sub
+End Class

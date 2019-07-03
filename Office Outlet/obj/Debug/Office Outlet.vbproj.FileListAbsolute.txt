@@ -1,0 +1,28 @@
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\bin\Debug\Office Outlet.exe.config
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\bin\Debug\Office Outlet.exe
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\bin\Debug\Office Outlet.pdb
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\bin\Debug\Office Outlet.xml
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.Laptop.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.Office_Outlet.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.Login.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.My_Info.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.Resources.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.Price_Match.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.Printer.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.sargos.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.sasus.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.sbrother.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.scanon.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.scarrys.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.sdell.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.sepson.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.shp.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.slenovo.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.Slider.resources
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office Outlet.vbproj.GenerateResource.cache
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office Outlet.vbproj.CoreCompileInputs.cache
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office Outlet.exe
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office Outlet.xml
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office Outlet.pdb
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office Outlet.vbprojAssemblyReference.cache
+O:\OneDrive\USER PROFILE\Desktop\Office Outlet\Office Outlet .Net\Office Outlet\Office Outlet\obj\Debug\Office_Outlet.SwitchBoard.resources
